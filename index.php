@@ -10,10 +10,10 @@
 </head> <!-- akhir struktur kepala -->
 
 <body> <!-- awal struktur tubuh (untuk membuat konten) -->
-  <h1>Pemrograman WEB 1</h1>
+  <h1>Pemrograman WEB 1 TI 4A</h1>
 
   <p> <!-- awal paragraph -->
-    Daftar Materi Pemrograman Web 1, Program Studi Teknik Informatika:
+    Daftar Materi Pemrograman Web 1, Program Studi Teknik Informatika 4A:
   <ol type="1">
     <li>HTML Dasar</li>
     <li>Pembuatan FORM</li>
