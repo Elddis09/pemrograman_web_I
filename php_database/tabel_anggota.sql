@@ -1,3 +1,5 @@
+-- membuat tabel anggota
+
 CREATE TABLE `anggota` (
   `id` int(11) NOT NULL,
   `nama_lengkap` varchar(100) NOT NULL,
