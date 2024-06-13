@@ -1,0 +1,16 @@
+h4 {
+  color: #50e0ee;
+  font-size: 26px;
+  text-align: left;
+  font-family: "Comic Sans Ms";
+}
+h2 {
+  color: #ff8000;
+}
+
+table,
+th,
+td {
+  border: 1px solid #0023ff;
+  font-family: "Arial Black";
+}
